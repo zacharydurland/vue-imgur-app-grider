@@ -1,7 +1,7 @@
 import qs from "qs";
 import Axios from "axios";
 
-const CLIENT_ID = "03f2a108684319c";
+const CLIENT_ID = "YOUR-CLIENT-ID-HERE";
 const ROOT_URL = "https://api.imgur.com";
 
 export default {
